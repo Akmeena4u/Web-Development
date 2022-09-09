@@ -1,0 +1,27 @@
+/* ****Introduction to HTML, CSS, JavaScript & How websites work? | Web Development Tutorials****
+
+Now let us first understand what HTML, CSS, and Javascript are for? For every website to be designed, 
+HTML (**HyperText Markup Language**) is a must. This is the skeleton of a website. Without it, no website can run. 
+CSS (**Cascading Style Sheets**) adds beauty to that website and JavaScript adds the brain to allow the functioning of that website.
+Therefore, CSS and JavaScript add beauty and brain to a particular website respectively.
+
+Let us now take another example of a car. The HTML acts as the metallic body of a car and the CSS acts as the color and design of the car.
+Finally, the engine of a car is like the JavaScript on the website to add functionality
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+How Internet works?
+
+The Internet is the world’s most fascinating invention to date. The journey started back in 1969 as a part of a research program. 
+the Internet was born by ARPA (Advanced Research Projects Agency) in 1969 and was initially called As ARPANET       
+
+Lot of guys think  internet as a complex cloud of informations but it is not exactly like that 
+it is a wired network in worldwide. and all computers are connected through this. few computers have a special that need to be available for 27*7 that are known as servers.
+so when a user's computer requests a site from his browser firstly request will go to an internet provider that in India may be airtel, jio and vi, etc.
+from there our request will go to DNS server, DNS server is like a phone call log , this will send IP address according to our requested site  after searching in his database,
+for google it will be 216.58.210.46 so now u got exact ip address so now u will send a direct request to the internet backbone via isp
+then our request will go to that website's server where that is hosted and finally we will get our requested answer in mili seconds
+
+
+*/
