@@ -5,6 +5,7 @@
 #PHP has the following functions to check if the type of a variable is particular type number or not ---   is_int() , is_long() ,    is_float() ,is_double()
 #The PHP is_numeric() function can be used to find whether a variable is numeric
 #NaN stands for Not a Number. NaN is used for impossible mathematical operations.  for this we use is_nan()
+#Sometimes you need to cast a numerical value into another data type. The (int), (integer), or intval() function are often used to convert a value to an integer.
 
 
 
@@ -37,5 +38,16 @@ var_dump(is_numeric($x));
 $x = "Hello";
 var_dump(is_numeric($x));
 
+# Cast float to int
+$x = 23465.768;
+$int_cast = (int)$x;
+echo $int_cast;
+
+echo "<br>";
+
+# Cast string to int
+$x = "23465.768";
+$int_cast = (int)$x;
+echo $int_cast;
 
 ?>
